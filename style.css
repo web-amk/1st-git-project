@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(26, 12, 70);
+
+}
+
+.part-1 p{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(20, 20, 58);
+    color: #fff;
+    margin: auto;
+    margin-top: 16px;
+    font-size: 15px;
+    overflow: scroll;
+}
+
+.part-1 h2{
+    text-align: center;
+    background-color: rgba(4, 248, 57, 0.36);
+    color: blueviolet;
+    width: 500px;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 6px solid goldenrod;
+
+}
+.img-1 {
+    width: 100%;
+    margin: auto;
+    position: 30px 30px;
+    height: 600px;
+
+}
+
+.part-2 p{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(45, 63, 49);
+    color: #fff;
+    margin: auto;
+    margin-top: 16px;
+    font-size: 15px;
+    overflow: scroll;
+}
+
+.part-2 h2{
+    text-align: center;
+    background-color: chartreuse;
+    color: darkcyan;
+    width: 500px;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 6px solid rgb(56, 53, 45);
+
+}
+
+.img-2 {
+    width: 100%;
+    margin: auto;
+    position: 30px 30px;
+    height: 600px;
+
+}
+
+.part-3 p{
+    width: 100%;
+    height: 180px;
+    background-color: rgb(45, 63, 49);
+    color: #0fe10c;
+    margin: auto;
+    margin-top: 16px;
+    font-size: 15px;
+    overflow: scroll;
+}
+
+
+.part-3 h2{
+    text-align: center;
+    background-color: rgba(50, 80, 57, 0.36);
+    color: rgb(49, 5, 90);
+    width: 500px;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 6px solid rgb(62, 45, 3);
+}
+
+.img-3 {
+    width: 100%;
+    margin: auto;
+    position: 30px 30px;
+    height: 600px;
+
+}
+
